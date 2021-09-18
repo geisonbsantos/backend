@@ -8,6 +8,6 @@ class IniController extends Controller
 {
     public function index()
     {
-        return response()->json(['status' => true]);
+        //return response()->json(['status' => true]);
     }
 }

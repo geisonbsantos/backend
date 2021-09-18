@@ -19,4 +19,4 @@ Route::get('/', function () {
     return view('welcome');
 });*/
 
-Route::get('/', [IniController::class, 'index']);
+//Route::get('/', [IniController::class, 'index']);
